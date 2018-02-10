@@ -8,4 +8,4 @@ Två simpla barCharts i D3.js
 * [index.html](https://github.com/lindbergerik/infoVis_project_1/blob/master/index.html) - the skeleton of the layout
 * [barChart_1.js](https://github.com/lindbergerik/infoVis_project_1/blob/master/barChart_1.js) - så basic det går att göra i D3
 * [barChart_2.js](https://github.com/lindbergerik/infoVis_project_1/blob/master/barChart_2.js) - använder SVG, lite mer avancerad
-* [bar.html](https://github.com/lindbergerik/infoVis_project_1/blob/master/advanced/bar.html) - funkar inte nu, måste ligga på en webbserver (alltså Node.js)
+* [bar.html](https://github.com/lindbergerik/infoVis_project_1/blob/master/Advanced/bar.html) - funkar inte nu, måste ligga på en webbserver (alltså Node.js)
